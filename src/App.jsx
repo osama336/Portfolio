@@ -228,7 +228,7 @@ export default function Portfolio() {
             <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-2xl bg-gradient-to-br from-cyan-900/20 to-blue-950/20 border border-cyan-800/30 flex items-center justify-center overflow-hidden">
               <div className="absolute inset-0 bg-cyan-600/10 blur-2xl"></div>
               <img
-                src="https://media.licdn.com/dms/image/v2/D4E03AQEkDMZLlqqZrQ/profile-displayphoto-scale_400_400/B4EZtLHV6GHUAg-/0/1766491777740?e=1774483200&v=beta&t=RUHUmQ6Et9nhS4j4DWNJd8MAx0J-aS5P_XkJqcAak3w"
+                src="https://media.licdn.com/dms/image/v2/D4E03AQEkDMZLlqqZrQ/profile-displayphoto-scale_400_400/B4EZtLHV6GHUAg-/0/1766491777740?e=1776297600&v=beta&t=y1UjN8ZsDJl67z8Tsm4gAMbG8-2308R4L3lkpn2NsrE"
               />
             </div>
           </div>
